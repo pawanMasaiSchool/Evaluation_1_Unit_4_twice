@@ -1,0 +1,19 @@
+.card {
+  border: 3px dotted #008000;
+  border-radius: 10px;
+  width: 400px;
+  height: auto;
+  padding: 10px;
+  /* margin: auto; */
+  display: flex;
+  flex-direction: column;
+  /* gap: 50px; */
+}
+
+.myImg {
+  width: 350px;
+  height: 200px;
+  border: 1px solid teal;
+  padding: 5px;
+  margin: 5px 10px 10px 10px;
+}

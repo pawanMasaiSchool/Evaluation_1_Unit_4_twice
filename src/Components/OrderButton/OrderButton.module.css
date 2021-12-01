@@ -1,0 +1,8 @@
+.orderButton {
+  border: 3px solid rgb(148, 148, 205);
+  background-color: #fde0e0;
+  font-size: 30px;
+  padding: 10px;
+  border-radius: 15px;
+  color: rgb(3, 250, 250);
+}
