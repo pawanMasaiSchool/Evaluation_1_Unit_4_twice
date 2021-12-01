@@ -1,0 +1,77 @@
+{
+    "cars": [
+      { "id": "1",
+        "name": "Maruti Suzuki Swift",
+        "type": "Normal",
+        "year": "2015",
+        "price": "₹500000",
+        "image": "https://img.indianautosblog.com/crop/1200x675/2021/01/12/maruti-suzuki-swift-facelift-4627.jpg"
+        },
+        { "id": "2",
+            "name": "Maruti Suzuki Ertiga",
+            "type": "Family Seater",
+            "year": "2013",
+            "price": "₹700000",
+            "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ertiga/7048/1611730397556/front-left-side-47.jpg"
+        },
+        { "id": "3",
+            "name": "Maruti Suzuki Wagnar",
+            "type": "Normal",
+            "year": "2012",
+            "price": "₹400000",
+            "image": "https://images.carandbike.com/car-images/large/maruti-suzuki/wagon-r/maruti-suzuki-wagon-r.jpg?v=41"
+            },
+        { "id": "4",
+            "name": "Maruti Suzuki Swift",
+            "type": "Normal",
+            "year": "2015",
+            "price": "₹500000",
+            "image": "https://img.indianautosblog.com/crop/1200x675/2021/01/12/maruti-suzuki-swift-facelift-4627.jpg"
+            },
+        { "id": "5",
+            "name": "Lamborghini",
+            "type": "Sports",
+            "year": "2018",
+            "price": "₹5000000",
+            "image": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/augmented-reality/aventador/s/ar_aven_s.png"
+            },
+            { "id": "6",
+                "name": "Maruti Suzuki Swift",
+                "type": "Normal",
+                "year": "2015",
+                "price": "₹500000",
+                "image": "https://img.indianautosblog.com/crop/1200x675/2021/01/12/maruti-suzuki-swift-facelift-4627.jpg"
+                },
+                { "id": "7",
+                    "name": "Maruti Suzuki Ertiga",
+                    "type": "Family Seater",
+                    "year": "2013",
+                    "price": "₹700000",
+                    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ertiga/7048/1611730397556/front-left-side-47.jpg"
+                },
+                { "id": "8",
+                    "name": "Maruti Suzuki Wagnar",
+                    "type": "Normal",
+                    "year": "2012",
+                    "price": "₹400000",
+                    "image": "https://images.carandbike.com/car-images/large/maruti-suzuki/wagon-r/maruti-suzuki-wagon-r.jpg?v=41"
+                    },
+                { "id": "9",
+                    "name": "Maruti Suzuki Swift",
+                    "type": "Normal",
+                    "year": "2015",
+                    "price": "₹500000",
+                    "image": "https://img.indianautosblog.com/crop/1200x675/2021/01/12/maruti-suzuki-swift-facelift-4627.jpg"
+                    },
+                { "id": "10",
+                    "name": "Lamborghini",
+                    "type": "Sports",
+                    "year": "2018",
+                    "price": "₹5000000",
+                    "image": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/augmented-reality/aventador/s/ar_aven_s.png"
+                    }
+    ],
+    "orders": [
+      
+    ]
+}

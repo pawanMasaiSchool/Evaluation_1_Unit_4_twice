@@ -4,7 +4,7 @@
   width: 400px;
   height: auto;
   padding: 10px;
-  /* margin: auto; */
+  margin: auto;
   display: flex;
   flex-direction: column;
   /* gap: 50px; */
